@@ -71,19 +71,21 @@ Tenho como objetivo evoluir constantemente através de projetos práticos, desen
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=samuelfariasdomingosd-ops&show_icons=true&theme=tokyonight&locale=pt-br" 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=samuelfariasdomingosd-ops&show_icons=true&theme=radical&hide_border=true&count_private=true" 
   />
 
 <img 
-   align="left" 
-   alt="GitHub Stats" 
-   height="180" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfariasdomingosd-ops&theme=tokyonight&layout=compact&langs_count=6" 
+ width="48%" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfariasdomingosd-ops&layout=compact&theme=radical&hide_border=true" 
 />
 
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=samuelfariasdomingosd-ops&theme=radical&hide_border=true" 
+  />
 </p>
