@@ -1,35 +1,89 @@
 README.md
 
-# 👋 Olá, eu sou o Samuel!
+# 👨🏻‍💻 Samuel Farias
 
-💻 Estudante de tecnologia com foco em Dados
-📊 Atualmente aprendendo análise de dados e programação
-🎯 Em busca de desenvolver habilidades para atuar na área de dados
+**`Estudante de Dados | Futuro Analista de Dados`**
 
----
+Me chamo Samuel Farias, sou estudante de tecnologia com foco na área de Dados. Atualmente estou aprendendo análise de dados, programação e ferramentas que me permitem transformar dados em informações úteis para tomada de decisão.
 
-## 🚀 Tecnologias e conhecimentos em aprendizado
-
-* Python (em aprendizado)
-* SQL (em aprendizado)
-* Git e GitHub
-* Lógica de programação
-* Fundamentos de análise de dados
+Tenho como objetivo evoluir constantemente através de projetos práticos, desenvolvendo habilidades em análise, manipulação e visualização de dados.
 
 ---
 
-## 🎯 Objetivo
+### 📊 Tecnologias e Ferramentas
 
-Desenvolver projetos práticos na área de dados, aplicando análise, manipulação e visualização de informações para gerar insights.
+<img 
+ align="left" 
+ alt="Python"
+ title="Python" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/> <img 
+ align="left" 
+ alt="Pandas"
+ title="Pandas" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
+/> <img 
+ align="left" 
+ alt="NumPy"
+ title="NumPy" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
+/> <img 
+ align="left" 
+ alt="SQL"
+ title="SQL" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/> <img 
+ align="left" 
+ alt="Excel"
+ title="Excel" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn-icons-png.flaticon.com/512/732/732220.png" 
+/> <img 
+ align="left" 
+ alt="Git"
+ title="Git" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-## 📊 Projetos
+### 📈 Projetos em Destaque
 
-* Em desenvolvimento...
+* 📊 Análise de Vendas (em desenvolvimento)
+* 📉 Análise de Dados com Python (em breve)
+* 📁 Estudos com SQL (em breve)
 
 ---
 
-## 📫 Contato
+### 📊 Estatísticas
 
-* GitHub: https://github.com/samuelfariasdomingosd-ops
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=samuelfariasdomingosd-ops&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+
+<img 
+   align="left" 
+   alt="GitHub Stats" 
+   height="180" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfariasdomingosd-ops&theme=tokyonight&layout=compact&langs_count=6" 
+/>
+
+</p>
